@@ -23,7 +23,7 @@
 .gallery{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 .card{
     width: 20%;
